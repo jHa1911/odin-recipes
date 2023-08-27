@@ -1,11 +1,26 @@
 body{
     background-color: black;
+    background-image: linear-gradient(to right, rgb(153,189,173), rgb(98,96,215));
     font-size: 20px;
     color: white;
+    text-align: center;
 
 
 }
 
-.unique{
-    color: white
+
+.image1{
+    margin-left: 100px;
+    width: 500px;
+    height: auto;
+    border-radius: 2px;
+
+}
+
+div{
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: darkcyan;
 }
